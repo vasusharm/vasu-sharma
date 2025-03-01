@@ -1,2 +1,2 @@
 # vasu-sharma
-This is git &amp; gitup class
+This is git &amp; gitup class..
